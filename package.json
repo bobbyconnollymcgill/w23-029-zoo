@@ -1,0 +1,17 @@
+{
+  "name": "virtual-zoo-api",
+  "version": "1.0.0",
+  "description": "Virtual Zoo API using Node.js and Express",
+  "scripts": {
+    "start": "node index.mjs",
+    "dev": "nodemon index.mjs"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^6.0.0",
+    "nanoid": "^4.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

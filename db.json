@@ -1,0 +1,118 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Lion",
+      "species": "Panthera leo",
+      "habitatId": 1
+    },
+    {
+      "id": 2,
+      "name": "Giraffe",
+      "species": "Giraffa camelopardalis",
+      "habitatId": 2
+    },
+    {
+      "id": 3,
+      "name": "Penguin",
+      "species": "Aptenodytes forsteri",
+      "habitatId": 3
+    },
+    {
+      "id": 4,
+      "name": "Polar Bear",
+      "species": "Ursus maritimus",
+      "habitatId": 4
+    },
+    {
+      "id": 5,
+      "name": "Kangaroo",
+      "species": "Macropus rufus",
+      "habitatId": 5
+    }
+  ],
+  "habitats": [
+    {
+      "id": 1,
+      "name": "Savannah",
+      "description": "A grassy plain in tropical and subtropical regions, with few trees."
+    },
+    {
+      "id": 2,
+      "name": "Grassland",
+      "description": "A large open area of country covered with grass, especially one used for grazing."
+    },
+    {
+      "id": 3,
+      "name": "Polar",
+      "description": "Relating to the North or South Pole, or the cold regions surrounding them."
+    },
+    {
+      "id": 4,
+      "name": "Arctic Tundra",
+      "description": "A treeless area between the icecap and the tree line of Arctic regions, having a permanently frozen subsoil and supporting low-growing vegetation."
+    },
+    {
+      "id": 5,
+      "name": "Australian Outback",
+      "description": "The remote and usually uninhabited inland regions of Australia."
+    }
+  ],
+  "feedingTimes": [
+    {
+      "id": 1,
+      "animalId": 1,
+      "time": "10:00"
+    },
+    {
+      "id": 2,
+      "animalId": 1,
+      "time": "16:00"
+    },
+    {
+      "id": 3,
+      "animalId": 2,
+      "time": "12:00"
+    },
+    {
+      "id": 5,
+      "animalId": 3,
+      "time": "11:00"
+    },
+    {
+      "id": 6,
+      "animalId": 3,
+      "time": "15:00"
+    },
+    {
+      "id": 7,
+      "animalId": 4,
+      "time": "14:00"
+    },
+    {
+      "id": 8,
+      "animalId": 5,
+      "time": "09:00"
+    },
+    {
+      "id": 9,
+      "animalId": 5,
+      "time": "18:00"
+    },
+    {
+      "id": "no9tcdcLQ6Zo0lBRHe8Qx",
+      "animalId": 4,
+      "time": "11:59"
+    },
+    {
+      "id": "NwJF5nOc4yEBkUHYmwRSP",
+      "animalId": 1,
+      "time": "11:59"
+    },
+    {
+      "id": "4",
+      "animalId": 1,
+      "time": "17:22"
+    }
+  ]
+}
